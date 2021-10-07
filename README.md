@@ -31,6 +31,8 @@ The word cloud revealed the following words that the most occurrence in G.K. Che
 
 >etc.
 
+The notebook of the project can be found in this repository or via this [link](https://github.com/johnowusuduah/No_Code_Low_Code_NLP_Project/blob/main/NLPNoCodeLowCodeNotebook.ipynb)
+
 
 
 
