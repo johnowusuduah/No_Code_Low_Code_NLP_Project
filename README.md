@@ -16,12 +16,19 @@ Nltk's *punkt* tokenizer was used to tokenize the book into tokens before words 
 The word cloud revealed the following words that the most occurrence in G.K. Chesterson's The Man Who Was Thursday:
 
 >syme
+
 >man
+
 >said
+
 >face
+
 >one
+
 >thing
+
 >seemed
+
 >etc.
 
 
