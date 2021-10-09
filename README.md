@@ -1,7 +1,7 @@
 # Small Data Engineering NLP and AI APIs with "No Code/Low Code" Project
 
 ## Demonstration Video
-A succinct demonstration can be found here.
+A succinct demonstration can be found [here.](https://www.youtube.com/watch?v=7Oq5TXsYY5U)
 
 ## Introduction
 The goal of the project is to use as little code as possible to generate insight from scraped data.
