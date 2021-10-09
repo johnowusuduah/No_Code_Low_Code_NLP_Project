@@ -4,7 +4,7 @@
 A succinct demonstration can be found here.
 
 ## Introduction
-The goal of the project is to use as little code as possible to generate insight from scraped data
+The goal of the project is to use as little code as possible to generate insight from scraped data.
 
 ## Scope
 The scraped data can be found on *gutunberg's* archive of books on python's *nltk*. It is G.K. Chesterson's nightmarish and suspensful mystery, The Man Who Was Thursday. 
